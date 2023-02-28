@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "clevertap-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CleverTap/clevertap-ios-sdk",
+      "state" : {
+        "branch" : "master",
+        "revision" : "7d0858a222478063bf9e454fe818303079a7fedd"
+      }
+    },
+    {
+      "identity" : "ctnotificationcontent",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CleverTap/CTNotificationContent",
+      "state" : {
+        "revision" : "0d0b103ea695dc34033fd4347a02e6cfcad8f811",
+        "version" : "0.2.4"
+      }
+    },
+    {
+      "identity" : "ctnotificationservice",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CleverTap/CTNotificationService",
+      "state" : {
+        "revision" : "75e9a1ad285a2ea4d252fe8bea036d4d4a447f21",
+        "version" : "0.1.5"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "a812079ae91a7f2e627364c42ea7b98abfa366ed",
+        "version" : "5.15.4"
+      }
+    }
+  ],
+  "version" : 2
+}
